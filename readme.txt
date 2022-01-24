@@ -1,0 +1,1 @@
+We take data from Kaggle about apps in Google play and its reviews and make our cleaning and preparing data with R and some visualization with it and made some interactive visualization with python. 
