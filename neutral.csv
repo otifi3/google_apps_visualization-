@@ -1,0 +1,866 @@
+"","App","Total_Neutral","Sentiment_Polarity_Neutral","Sentiment_Subjectivity_Neutral"
+"1","10 Best Foods for You",22,0,0
+"2","104 找工作 - 找工作 找打工 找兼職 履歷健檢 履歷診療室",8,0,0.0125
+"3","11st",10,0,0.133333333333333
+"4","1800 Contacts - Lens Store",10,0,0.0714285714285714
+"5","1LINE – One Line with One Touch",3,0,0
+"6","2018Emoji Keyboard 😂 Emoticons Lite -sticker&gif",6,0,0.0611111111111111
+"7","21-Day Meditation Experience",2,0,0.85
+"8","2Date Dating App, Love and matching",5,0,0
+"9","2GIS: directory & navigator",11,0,0.181818181818182
+"10","2ndLine - Second Phone Number",16,0,0.0375
+"11","2RedBeans",6,0,0.0595238095238095
+"12","30 Day Fitness Challenge - Workout at Home",2,0,0.5
+"13","365Scores - Live Scores",2,0,0.5
+"14","3D Live Neon Weed Launcher",0,0,0
+"15","4 in a Row",0,0,0
+"16","4K Wallpapers and Ultra HD Backgrounds",0,0,0
+"17","591房屋交易-租屋、中古屋、新建案、實價登錄、別墅透天、公寓套房、捷運、買房賣房行情、房價房貸查詢",8,0,0.1828125
+"18","591房屋交易-香港",3,0,0
+"19","7 Cups: Anxiety & Stress Chat",0,0,0
+"20","7 Day Food Journal Challenge",0,0,0
+"21","7 Minute Workout",0,0,0
+"22","7 Weeks - Habit & Goal Tracker",0,0,0
+"23","8 Ball Pool",9,0,0.259259259259259
+"24","850 Sports News Digest",0,0,0
+"25","8fit Workouts & Meal Planner",15,0,0.16
+"26","95Live -SG#1 Live Streaming App",24,0,0.1
+"27","A Call From Santa Claus!",0,0,0
+"28","A Word A Day",1,0,1
+"29","A&E - Watch Full Episodes of TV Shows",5,0,0
+"30","A+ Gallery - Photos & Videos",10,0,0.05
+"31","A+ Mobile",18,0,0.068452380952381
+"32","ABC Kids - Tracing & Phonics",6,0,0.108333333333333
+"33","ABC News - US & World News",23,0,0.208333333333333
+"34","ABC Preschool Free",9,0,0
+"35","ABCmouse.com",2,0,0
+"36","Abs Training-Burn belly fat",5,0,0
+"37","AC - Tips & News for Android™",7,0,0.166428571428571
+"38","Account Manager",4,0,0.178472222222222
+"39","Accounting App - Zoho Books",9,0,0
+"40","AccuWeather: Daily Forecast & Live Weather Reports",4,0,0.208333333333333
+"41","ACE Elite",7,0,0.00952380952380952
+"42","Acorn TV: World-class TV from Britain and Beyond",2,0,0.375
+"43","Acorns - Invest Spare Change",2,0,0
+"44","AD - Nieuws, Sport, Regio & Entertainment",3,0,0
+"45","Ada - Your Health Guide",4,0,0
+"46","Add Text To Photo",10,0,0
+"47","Adobe Acrobat Reader",15,0,0.0916666666666667
+"48","Adobe Photoshop Express:Photo Editor Collage Maker",2,0,0
+"49","Advanced Task Killer",1,0,0.666666666666667
+"50","AdWords Express",28,0,0
+"51","Agar.io",10,0,0.103333333333333
+"52","Age Calculator",4,0,0.105952380952381
+"53","Agoda – Hotel Booking Deals",3,0,0
+"54","Air Traffic",3,0,0
+"55","AirAsia",3,0,0.183333333333333
+"56","Airbnb",7,0,0.0857142857142857
+"57","AirBrush: Easy Photo Editor",6,0,0
+"58","Airport + Flight Tracker Radar",2,0,0.15
+"59","Airway Ex - Intubate. Anesthetize. Train.",6,0,0
+"60","Akinator",1,0,0.125
+"61","Alarm Clock",10,0,0.0357142857142857
+"62","Alarm Clock Free",10,0,0.035
+"63","Alfred Home Security Camera",9,0,0.0703703703703704
+"64","AliExpress - Smarter Shopping, Better Living",0,0,0
+"65","All-in-One Mahjong 3 FREE",0,0,0
+"66","All-In-One Toolbox: Cleaner, Booster, App Manager",3,0,0.0595238095238095
+"67","All Email Providers",0,0,0
+"68","All Events in City",2,0,0.28125
+"69","All Football - Latest News & Videos",2,0,0
+"70","All Football GO- Live Score, Games",5,0,0
+"71","All Language Translator Free",6,0,0.266666666666667
+"72","All Maths Formulas",6,0,0
+"73","All Mental disorders",10,0,0
+"74","All Social Networks",5,0,0.2
+"75","All Video Downloader 2018",8,0,0
+"76","Allegiant",1,0,0
+"77","Allrecipes Dinner Spinner",0,0,0
+"78","AlReader -any text book reader",9,0,0.0507936507936508
+"79","Alto's Adventure",0,0,0
+"80","Amazon Drive",4,0,0.0625
+"81","Amazon for Tablets",3,0,0
+"82","Amazon FreeTime – Kids’ Videos, Books, & TV shows",4,0,0.025
+"83","Amazon Kindle",19,0,0.0697368421052632
+"84","Amazon Prime Video",0,0,0
+"85","Amazon Shopping",10,0,0.13625
+"86","AMC Theatres",0,0,0
+"87","American Airlines",4,0,0.133333333333333
+"88","Amex Mobile",8,0,0.0416666666666667
+"89","Amino: Communities and Chats",0,0,0
+"90","Amtrak",12,0,0.0599702380952381
+"91","ANA",10,0,0.0833333333333333
+"92","Anatomy Learning - 3D Atlas",3,0,0.225793650793651
+"93","Ancestry",5,0,0
+"94","Android Auto - Maps, Media, Messaging & Voice",0,0,0
+"95","Android Messages",4,0,0.05
+"96","AndroZip™ FREE File Manager",8,0,0
+"97","Anger of stick 5 : zombie",0,0,0
+"98","Angry Birds 2",0,0,0
+"99","Angry Birds Classic",2,0,0.141666666666667
+"100","Angry Birds Rio",1,0,0
+"101","Animal Planet GO",4,0,0.03125
+"102","Animated Photo Editor",10,0,0
+"103","Anime Avatar Creator: Make Your Own Avatar",1,0,0
+"104","Anime Manga Coloring Book",2,0,0
+"105","Anthem Anywhere",18,0,0.0777777777777778
+"106","Anthem BC Anywhere",11,0,0.213636363636364
+"107","Any.do: To-do list, Calendar, Reminders & Planner",11,0,0
+"108","AOL - News, Mail & Video",9,0,0.111111111111111
+"109","AP Mobile - Breaking News",1,0,0.0333333333333333
+"110","Apartment Decorating Ideas",0,0,0
+"111","Apartment List: Housing, Apt, and Property Rentals",3,0,0.333333333333333
+"112","Apartment, Home Rental Search: Realtor.com Rentals",3,0,0
+"113","Apartments & Rentals - Zillow",14,0,0.166666666666667
+"114","Apartments.com Rental Search",18,0,0.251851851851852
+"115","APE Weather ( Live Forecast)",6,0,0.0166666666666667
+"116","Apex Launcher",7,0,0.419642857142857
+"117","Apk Installer",3,0,0.0333333333333333
+"118","App vault",3,0,0.125
+"119","Apple Daily 蘋果動新聞",12,0,0.0416666666666667
+"120","AppLock",0,0,0
+"121","AppLock - Fingerprint",0,0,0
+"122","Aprender inglés con Wlingua",2,0,0.6
+"123","APUS Launcher - Theme, Wallpaper, Hide Apps",2,0,0
+"124","Archos File Manager",9,0,0.0388888888888889
+"125","Arrow.io",14,0,0.0369047619047619
+"126","ARY NEWS",9,0,0
+"127","ARY NEWS URDU",8,0,0.0833333333333333
+"128","Asana: organize team projects",5,0,0.05
+"129","Ascape VR: 360° Virtual Travel",4,0,0.0833333333333333
+"130","ASOS",8,0,0.28125
+"131","Asphalt 8: Airborne",3,0,0.4375
+"132","Associated Credit Union Mobile",4,0,0
+"133","Asteroids 3D live wallpaper",6,0,0
+"134","ASUS Calling Screen",10,0,0.204166666666667
+"135","ASUS Cover for ZenFone 2",2,0,0
+"136","ASUS Quick Memo",1,0,0.3
+"137","ASUS Sound Recorder",1,0,0
+"138","ASUS SuperNote",4,0,0.09375
+"139","AT&T Navigator: Maps, Traffic",4,0,0
+"140","AT&T Smart Wi-Fi",8,0,0.232142857142857
+"141","AT&T Visual Voicemail",5,0,0.22
+"142","Atlan3D Navigation: Korea navigator",11,0,0.0666666666666667
+"143","AutoCAD - DWG Viewer & Editor",8,0,0.21875
+"144","AutoScout24 Switzerland – Find your new car",4,0,0.25
+"145","Avakin Life - 3D virtual world",1,0,0.5
+"146","AVG Cleaner – Speed, Battery & Memory Booster",1,0,0.0333333333333333
+"147","Aviary Effects: Classic",2,0,0.3375
+"148","Aviary Stickers: Free Pack",2,0,0
+"149","Azar",29,0,0.0689655172413793
+"150","Azpen eReader",4,0,0.11875
+"151","B612 - Beauty & Filter Camera",2,0,0
+"152","BÁO MỚI - Đọc Báo, Tin Tức 24h",7,0,0.142857142857143
+"153","Babbel – Learn Languages",11,0,0.0454545454545455
+"154","Babbel – Learn Spanish",1,0,0
+"155","BaBe - Baca Berita",4,0,0
+"156","BaBe Lite - Baca Berita Hemat Kuota",4,0,0
+"157","BaBe+ - Berita Indonesia",5,0,0
+"158","Baby ABC in box! Kids alphabet games for toddlers!",2,0,0
+"159","Baby Monitor",4,0,0.0375
+"160","Baby Name Together",6,0,0
+"161","Baby Panda Care",8,0,0
+"162","Baby Panda Learns Shapes",16,0,0.0390625
+"163","Baby Panda Musical Genius",11,0,0.0840909090909091
+"164","Baby Panda’s Juice Shop",0,0,0
+"165","Baby puzzles",4,0,0.145833333333333
+"166","Baby Tiger Care - My Cute Virtual Pet Friend",4,0,0
+"167","Baca- Berita Terbaru, Informasi, Gosip dan Politik",9,0,0.0952380952380952
+"168","Backgrounds (HD Wallpapers)",1,0,0
+"169","Backgrounds HD (Wallpapers)",9,0,0
+"170","BaconReader for Reddit",1,0,0
+"171","Bad Piggies",3,0,0.220833333333333
+"172","Badoo - Free Chat & Dating App",35,0,0.12734693877551
+"173","Bagan - Myanmar Keyboard",9,0,0
+"174","Banco do Brasil",11,0,0.123376623376623
+"175","Banco Itaú",13,0,0.0865384615384615
+"176","Bancomer móvil",8,0,0.03125
+"177","Banfield Pet Health Tracker",6,0,0.0256410256410256
+"178","Bangla Newspaper – Prothom Alo",11,0,0.0909090909090909
+"179","Banjo",6,0,0.25
+"180","Bank of America Mobile Banking",4,0,0.0697916666666667
+"181","BankMobile Vibe App",2,0,0
+"182","Banorte Movil",0,0,0
+"183","Banque Populaire",5,0,0.0266666666666667
+"184","Barbie Life™",6,0,0.166666666666667
+"185","Barbie Magical Fashion",0,0,0
+"186","Barbie™ Fashion Closet",9,0,0
+"187","Barclays US for Android",10,0,0
+"188","Barcode Scanner",6,0,0.0916666666666667
+"189","Baritastic - Bariatric Tracker",5,0,0.0833333333333333
+"190","Baseball Boy!",0,0,0
+"191","Basketball FRVR - Shoot the Hoop and Slam Dunk!",7,0,0.11530612244898
+"192","Basketball Stars",4,0,0.0833333333333333
+"193","Bathroom Decorating Ideas",9,0,0
+"194","Battlelands Royale",2,0,0.1
+"195","BBC Media Player",1,0,0.357142857142857
+"196","BBC News",8,0,0.203125
+"197","BBC Sport",8,0,0
+"198","BBM - Free Calls & Messages",9,0,0.205555555555556
+"199","BBVA Compass Banking",5,0,0
+"200","BBVA Spain",3,0,0
+"201","BBW Dating & Curvy Singles Chat- LargeFriends",14,0,0
+"202","BBW Dating & Plus Size Chat",15,0,0.02
+"203","BBWCupid - BBW Dating App",9,0,0.134259259259259
+"204","Be A Legend: Soccer",6,0,0.0592592592592593
+"205","Beautiful Design Birthday Cake",10,0,0
+"206","Beautiful Widgets Free",3,0,0.0222222222222222
+"207","Beautiful Widgets Pro",2,0,0.07
+"208","Beauty Camera - Selfie Camera",5,0,0.106666666666667
+"209","Beauty Makeup Snappy Collage Photo Editor - Lidow",1,0,0.5
+"210","BeautyPlus - Easy Photo Editor & Selfie Camera",2,0,0
+"211","Bed Time Fan - White Noise Sleep Sounds",0,0,0
+"212","BELONG Beating Cancer Together",8,0,0
+"213","BeSoccer - Soccer Live Score",9,0,0.0555555555555556
+"214","BEST CAR SOUNDS",9,0,0
+"215","Best Car Wallpapers",1,0,0
+"216","Best Fiends - Free Puzzle Game",0,0,0
+"217","Best Ovulation Tracker Fertility Calendar App Glow",0,0,0
+"218","Best Wallpapers Backgrounds(100,000+ 4K HD)",4,0,0
+"219","Best Wallpapers QHD",1,0,0.3
+"220","BestCam Selfie-selfie, beauty camera, photo editor",39,0,0.00170940170940171
+"221","BET NOW - Watch Shows",39,0,0.0230769230769231
+"222","BetterMe: Weight Loss Workouts",4,0,0.0375
+"223","Betterment",7,0,0.133163265306122
+"224","BeWild Free Dating & Chat App",1,0,0.3
+"225","BEYBLADE BURST app",3,0,0.166666666666667
+"226","BeyondMenu Food Delivery",1,0,0
+"227","BeyondPod Podcast Manager",1,0,0
+"228","Bible",9,0,0.037037037037037
+"229","Big Days - Events Countdown",7,0,0.0142857142857143
+"230","BIG Launcher",9,0,0.0396825396825397
+"231","BiggerCity: Chat for gay bears, chubs & chasers",3,0,0.333333333333333
+"232","BigOven Recipes, Meal Planner, Grocery List & More",3,0,0.25
+"233","Bike Computer - GPS Cycling Tracker",9,0,0.0793650793650794
+"234","Binaural Beats Meditation",7,0,0.107142857142857
+"235","Binaural Beats Therapy",8,0,0.0696428571428571
+"236","BioLife Plasma Services",6,0,0.25
+"237","Birdays – Birthday reminder",3,0,0
+"238","Birds Sounds Ringtones & Wallpapers",10,0,0
+"239","Black People Meet Singles Date",5,0,0
+"240","BLK - Swipe. Match. Chat.",9,0,0.073015873015873
+"241","Block Puzzle",0,0,0
+"242","Block Puzzle Classic Legend !",4,0,0.233333333333333
+"243","Blogaway for Android (Blogger)",13,0,0.0787545787545788
+"244","Blogger",1,0,0
+"245","Bloglovin'",13,0,0.0538461538461538
+"246","Blood Donor",11,0,0.096969696969697
+"247","Blood Pressure",4,0,0
+"248","Blood Pressure Log - MyDiary",2,0,0.35
+"249","Blood Pressure(BP) Diary",18,0,0.0611111111111111
+"250","Bloomberg Professional",14,0,0.0714285714285714
+"251","Bloomberg: Market & Financial News",15,0,0.0827777777777778
+"252","Blossom Blast Saga",0,0,0
+"253","Blur Image Background",2,0,0
+"254","Blur Image Background Editor (Blur Photo Editor)",6,0,0.0958333333333333
+"255","BluTV",8,0,0.0625
+"256","Booking.com Travel Deals",39,0,0.0506410256410256
+"257","Bowmasters",24,0,0.191111111111111
+"258","Box",24,0,0.0145833333333333
+"259","Boxed Wholesale",6,0,0.0305555555555556
+"260","Boys Photo Editor - Six Pack & Men's Suit",10,0,0
+"261","Brain Waves - Binaural Beats",3,0,0.412037037037037
+"262","Branch",4,0,0.0375
+"263","Brasileirão Pro 2018 - Série A e B",3,0,0.05
+"264","Breaking News, Local news, Attacks and Alerts Free",8,0,0
+"265","Brightest Flashlight Free ®",0,0,0
+"266","Brightest LED Flashlight",2,0,0
+"267","Brilliant",2,0,0.25
+"268","Brit + Co",4,0,0.25
+"269","British Airways",4,0,0
+"270","Browser 4G",10,0,0
+"271","Bualuang mBanking",12,0,0.03125
+"272","Bubble Shooter",5,0,0
+"273","Bubble Shooter 2",1,0,0
+"274","Bubble Shooter Genies",1,0,0.5
+"275","Bubble Shooter Space",3,0,0
+"276","Bubble Witch 3 Saga",1,0,0.725
+"277","Buienradar - weer",5,0,0
+"278","Build a Bridge!",9,0,0.0444444444444444
+"279","Bukalapak - Jual Beli Online",2,0,0
+"280","BukuBayi - Perkembangan Bayi",4,0,0.125
+"281","Burner - Free Phone Number",0,0,0
+"282","Buscapé - Ofertas e descontos",1,0,0.182936507936508
+"283","Business Calendar 2",3,0,0.0416666666666667
+"284","Butterfly Live Wallpaper",8,0,0
+"285","Buzz Launcher-Smart&Free Theme",1,0,0.0666666666666667
+"286","BuzzFeed: News, Tasty, Quizzes",16,0,0
+"287","BZWBK24 mobile",5,0,0.2
+"288","C Programming",0,0,0
+"289","C++ Programming",2,0,0.0833333333333333
+"290","C++ Tutorials",4,0,0
+"291","Cache Cleaner-DU Speed Booster (booster & cleaner)",8,0,0.0125
+"292","Caf - Mon Compte",0,0,0
+"293","CAIXA",8,0,0.140625
+"294","CALCU™ Stylish Calculator Free",10,0,0.0925
+"295","Calculator - free calculator, multi calculator app",2,0,0
+"296","Calculator - unit converter",0,0,0
+"297","Calculator Plus Free",0,0,0
+"298","Calculator with Percent (Free)",1,0,0.55
+"299","Calendar Widget Month + Agenda",1,0,0
+"300","Calendar+ Schedule Planner App",0,0,0
+"301","Call Blocker",0,0,0
+"302","Call Control - Call Blocker",2,0,0.125
+"303","Call of Duty:Black Ops Zombies",0,0,0
+"304","CallApp: Caller ID, Blocker & Phone Call Recorder",0,0,0
+"305","Caller ID +",0,0,0
+"306","Calls & Text by Mo+",1,0,0
+"307","Calls Blacklist - Call Blocker",0,0,0
+"308","Calm - Meditate, Sleep, Relax",2,0,0
+"309","Calorie Counter - EasyFit free",3,0,0.0333333333333333
+"310","Calorie Counter - Macros",6,0,0
+"311","Calorie Counter - MyFitnessPal",34,0,0.0392156862745098
+"312","Calorie Counter - MyNetDiary",15,0,0.1
+"313","Calorie Counter & Diet Tracker",9,0,0.159259259259259
+"314","Cameringo Lite. Filters Camera",1,0,0
+"315","Candy Bomb",6,0,0.3
+"316","Candy Camera - selfie, beauty camera, photo editor",17,0,0
+"317","Candy Crush Jelly Saga",8,0,0.125
+"318","Candy Crush Saga",12,0,0.272916666666667
+"319","Candy Crush Soda Saga",8,0,0.1625
+"320","Candy Day",6,0,0.15
+"321","Candy Pop Story",5,0,0
+"322","Candy selfie - photo editor, live filter camera",10,0,0
+"323","Candy Smash",4,0,0
+"324","Canva: Poster, banner, card maker & graphic design",5,0,0.22
+"325","Canvas Student",1,0,0
+"326","Cat Sim Online: Play with Cats",2,0,0.1375
+"327","CATS: Crash Arena Turbo Stars",1,0,0.333333333333333
+"328","Caviar - Food Delivery",6,0,0.0595238095238095
+"329","CBS News",1,0,0
+"330","CBS Sports App - Scores, News, Stats & Watch Live",27,0,0.134567901234568
+"331","CBS Sports Fantasy",11,0,0
+"332","CDL Practice Test 2018 Edition",2,0,0
+"333","Chakra Cleansing",4,0,0
+"334","Championat",9,0,0
+"335","Chapters: Interactive Stories",1,0,0
+"336","Chase Mobile",1,0,0.1875
+"337","Chat Rooms, Avatars, Date - Galaxy",12,0,0
+"338","ChatVideo Meet new people",14,0,0.0714285714285714
+"339","Cheap Flights & Hotels momondo",8,0,0.125
+"340","Cheap hotel deals and discounts — Hotellook",11,0,0.046969696969697
+"341","Cheapflights – Flight Search",7,0,0.25578231292517
+"342","CheapTickets – Hotels, Flights & Travel Deals",4,0,0
+"343","Checkers ✔️",5,0,0
+"344","Checkout 51: Grocery coupons",2,0,0.3125
+"345","CheckPoints 🏆 Rewards App",6,0,0.233333333333333
+"346","Choice Hotels",1,0,0.3
+"347","Choices: Stories You Play",0,0,0
+"348","Christian Dating For Free App",4,0,0
+"349","Chrome Beta",12,0,0
+"350","Chrome Dev",8,0,0.125
+"351","CIA - Caller ID & Call Blocker",4,0,0
+"352","Cinemark Theatres",10,0,0.0383333333333333
+"353","Cisco Webex Meetings",6,0,0
+"354","Cisco Webex Teams",8,0,0.120833333333333
+"355","Citi Mobile®",2,0,0.258571428571429
+"356","Citibanamex Movil",6,0,0.309259259259259
+"357","Citizens Bank Mobile Banking",2,0,0.375
+"358","CityMaps2Go Plan Trips Travel Guide Offline Maps",4,0,0.1375
+"359","Claro",15,0,0.173333333333333
+"360","Clash of Clans",0,0,0
+"361","Clash Royale",0,0,0
+"362","CM Browser - Ad Blocker , Fast Download , Privacy",0,0,0
+"363","CM Flashlight (Compass, SOS)",0,0,0
+"364","CM Launcher 3D - Theme, Wallpapers, Efficient",4,0,0.025
+"365","CM Locker - Security Lockscreen",15,0,0.04
+"366","CMB Free Dating App",10,0,0
+"367","CNBC: Breaking Business News & Live Market Data",4,0,0.125
+"368","CNN Breaking US & World News",6,0,0
+"369","Color by Number - Draw Sandbox Pixel Art",20,0,0.108333333333333
+"370","Color by Number – New Coloring Book",0,0,0
+"371","Color Flashlight",2,0,0.05
+"372","Color Road",1,0,0.56875
+"373","Color Touch Effects",11,0,0.00909090909090909
+"374","ColorFil - Adult Coloring Book",2,0,0.291666666666667
+"375","Colorfit - Drawing & Coloring",1,0,0
+"376","Colorful Glitter Neon Butterfly Keyboard Theme",8,0,0.015625
+"377","Colorfy: Coloring Book for Adults - Free",7,0,0.219047619047619
+"378","Coloring & Learn",4,0,0
+"379","Coloring book moana",4,0,0
+"380","ColorNote Notepad Notes",3,0,0.0833333333333333
+"381","ColorSnap® Visualizer",14,0,0.0785714285714286
+"382","Comedy Central",26,0,0.0333333333333333
+"383","Common Core",0,0,0
+"384","Comptia A+ 220-901 & 220-902",3,0,0
+"385","ConnectLine",7,0,0.135714285714286
+"386","Contacts",9,0,0.261507936507937
+"387","Contacts+",10,0,0.02
+"388","Content Transfer",9,0,0.0654320987654321
+"389","ConvertPad - Unit Converter",2,0,0.75
+"390","Cookbook Recipes",2,0,0
+"391","Cooking Channel",6,0,0
+"392","Cooking Fever",1,0,0
+"393","Cooking Madness - A Chef's Restaurant Games",0,0,0
+"394","COOKING MAMA Let's Cook!",4,0,0
+"395","Cookpad",3,0,0
+"396","Cool Popular Ringtones 2018 🔥",2,0,0
+"397","Cool Reader",3,0,0
+"398","Couch to 10K Running Trainer",2,0,0
+"399","Couch to 5K by RunDouble",7,0,0.0714285714285714
+"400","Couchsurfing Travel App",4,0,0
+"401","Cougar Dating Life : Date Older Women Sugar Mummy",6,0,0.222222222222222
+"402","Couple - Relationship App",0,0,0
+"403","Credit Karma",3,0,0.303703703703704
+"404","Credit Sesame",7,0,0.0830357142857143
+"405","CreditWise from Capital One",3,0,0.292857142857143
+"406","Crew - Free Messaging and Scheduling",4,0,0.25
+"407","Cricbuzz - Live Cricket Scores & News",1,0,0.5
+"408","Cricket Visual Voicemail",4,0,0.155952380952381
+"409","Crossy Road",12,0,0.111111111111111
+"410","Crunchyroll - Everything Anime",0,0,0
+"411","Current debit card and app made for teens",5,0,0
+"412","Curriculum vitae App CV Builder Free Resume Maker",6,0,0
+"413","Curso de Ingles Gratis",3,0,0
+"414","Cut the Rope 2",7,0,0.0142857142857143
+"415","Cut the Rope FULL FREE",0,0,0
+"416","CVS Caremark",10,0,0
+"417","CW Seed",6,0,0.0666666666666667
+"418","CWT To Go",4,0,0.0416666666666667
+"419","Cycling - Bike Tracker",2,0,0
+"420","Cymera Camera- Photo Editor, Filter,Collage,Layout",15,0,0
+"421","Czech Public Transport IDOS",7,0,0.1
+"422","Daily Workouts - Exercise Fitness Routine Trainer",0,0,0
+"423","Daily Yoga - Yoga Fitness Plans",0,0,0
+"424","Dailyhunt (Newshunt) - Latest News, Viral Videos",0,0,0
+"425","Dairy Queen",1,0,0
+"426","Daniel Tiger for Parents",0,0,0
+"427","DashClock Widget",0,0,0
+"428","Dashlane Free Password Manager",0,0,0
+"429","Dating App, Flirt & Chat : W-Match",4,0,0.208333333333333
+"430","Dating for 50 plus Mature Singles – FINALLY",2,0,0
+"431","Daum Mail - 다음 메일",2,0,0.178571428571429
+"432","Davis's Drug Guide",1,0,0
+"433","Davis's Drug Guide for Nurses",1,0,0
+"434","DC Comics",2,0,0
+"435","DC Super Hero Girls™",3,0,0
+"436","DEAD TARGET: FPS Zombie Apocalypse Survival Games",12,0,0.160416666666667
+"437","Debonairs Pizza",1,0,0
+"438","DEER HUNTER 2018",0,0,0
+"439","DELISH KITCHEN - 無料レシピ動画で料理を楽しく・簡単に！",4,0,0
+"440","Delivery Club–Доставка еды:пицца,суши,бургер,салат",8,0,0
+"441","Delta Dental",11,0,0.0101010101010101
+"442","Despegar.com Hoteles y Vuelos",11,0,0.0369318181818182
+"443","Detector de Radares Gratis",6,0,0
+"444","Device Help",9,0,0
+"445","Diabetes & Diet Tracker",4,0,0
+"446","Diabetes:M",4,0,0
+"447","Diamond Zipper Lock Screen",6,0,0.1
+"448","Diary with lock",2,0,0.9
+"449","Diary with lock password",7,0,0.157142857142857
+"450","Dictionary - Merriam-Webster",0,0,0
+"451","Die TK-App – alles im Griff",6,0,0
+"452","Digg",2,0,0.5
+"453","DigiCal Calendar Agenda",2,0,0
+"454","Digit Save Money Automatically",13,0,0.0274725274725275
+"455","Digital Alarm Clock",7,0,0.0238095238095238
+"456","Dil Mil",10,0,0
+"457","DINO HUNTER: DEADLY SHORES",2,0,0.538095238095238
+"458","Dino War: Rise of Beasts",5,0,0.18
+"459","Dinosaur Simulator: Dino World",2,0,0
+"460","Discover Mobile",0,0,0
+"461","Disney Heroes: Battle Mode",0,0,0
+"462","Disney Magic Kingdoms: Build Your Own Magical Park",0,0,0
+"463","DisneyNOW – TV Shows & Games",4,0,0
+"464","Divar",9,0,0.119444444444444
+"465","DIY Garden Ideas",4,0,0.03125
+"466","DIY On A Budget",5,0,0
+"467","DMV Permit Practice Test 2018 Edition",2,0,0.55
+"468","Do It Later: Tasks & To-Dos",10,0,0.025
+"469","Docs To Go™ Free Office Suite",15,0,0.0666666666666667
+"470","Doctor On Demand",6,0,0.0222222222222222
+"471","Doctor Pets",5,0,0
+"472","Dog Licks Screen Wallpaper",9,0,0
+"473","Dog Run - Pet Dog Simulator",4,0,0
+"474","Dog Sim Online: Raise a Family",0,0,0
+"475","Domino's Pizza USA",2,0,0
+"476","Dominos Game ✔️",12,0,0.0201388888888889
+"477","Domofond Недвижимость. Купить, снять квартиру.",10,0,0.110833333333333
+"478","Doodle Jump",9,0,0.0277777777777778
+"479","Door Lock Screen",7,0,0
+"480","DoorDash - Food Delivery",3,0,0.0888888888888889
+"481","Dosecast - Medication Reminder",1,0,0.483333333333333
+"482","Down Dog: Great Yoga Anywhere",0,0,0
+"483","Dr. Oetker Rezeptideen",11,0,0
+"484","Dr. Panda & Toto's Treehouse",4,0,0
+"485","Dr. Panda Restaurant 3",2,0,0
+"486","Dr. Panda Town: Vacation",2,0,0
+"487","DraftKings - Daily Fantasy Sports",3,0,0
+"488","DRAGON BALL LEGENDS",1,0,0
+"489","Dragon Hills",0,0,0
+"490","Draw A Stickman",0,0,0
+"491","Draw a Stickman: EPIC 2",0,0,0
+"492","Draw In",0,0,0
+"493","Draw Your Game",0,0,0
+"494","Drawing for Kids Learning Games for Toddlers age 3",0,0,0
+"495","Dream League Soccer 2018",0,0,0
+"496","DreamTrips",7,0,0.0714285714285714
+"497","DreamWorks Friends",22,0,0.0909090909090909
+"498","Dresses Ideas & Fashions +3000",5,0,0
+"499","Droid Zap by Motorola",9,0,0.0472222222222222
+"500","DroidAdmin for Android - Advice",10,0,0.0125
+"501","Dropbox",22,0,0.0454545454545455
+"502","Drugs.com Medication Guide",4,0,0.0625
+"503","DSLR Camera Hd Ultra Professional",8,0,0
+"504","DStv Now",3,0,0
+"505","DU Browser—Browse fast & fun",0,0,0
+"506","DU Recorder – Screen Recorder, Video Editor, Live",5,0,0.265
+"507","Dude Perfect 2",5,0,0.067
+"508","Dumb Ways to Die 2: The Games",4,0,0
+"509","Dungeon Hunter Champions: Epic Online Action RPG",4,0,0.025
+"510","Dunkin' Donuts",3,0,0.125925925925926
+"511","Duolingo: Learn Languages Free",6,0,0
+"512","DuraSpeed",13,0,0.0443786982248521
+"513","E*TRADE Mobile",3,0,0
+"514","Easy - taxi, car, ridesharing",13,0,0.0384615384615385
+"515","Easy Hair Style Design",6,0,0
+"516","Easy Healthy Recipes",4,0,0
+"517","Easy Installer - Apps On SD",23,0,0.0652173913043478
+"518","Easy Makeup Tutorials",11,0,0.0272727272727273
+"519","Easy Origami Ideas",6,0,0.0208333333333333
+"520","Easy Recipes",12,0,0.0833333333333333
+"521","Easy Voice Recorder",3,0,0.155555555555556
+"522","EasyBib: Citation Generator",13,0,0.0384615384615385
+"523","Eat Fit - Diet and Health Free",14,0,0.0289115646258503
+"524","Eat24 Food Delivery & Takeout",7,0,0.142857142857143
+"525","EatStreet Food Delivery App",6,0,0.05
+"526","Ebates: Cash Back, Coupons, Rewards & Savings",7,0,0.0464285714285714
+"527","Ebook Reader",3,0,0.333333333333333
+"528","Ecobank Mobile Banking",3,0,0.522222222222222
+"529","Edmodo",7,0,0.0178571428571429
+"530","Educational Games 4 Kids",3,0,0
+"531","Educational Games for Kids",4,0,0
+"532","El tiempo de AEMET",6,0,0
+"533","English-Myanmar Dictionary",7,0,0
+"534","English with Lingualeo",3,0,0.333333333333333
+"535","Entel",16,0,0.0833333333333333
+"536","Enterprise Rent-A-Car",3,0,0
+"537","Episode - Choose Your Story",18,0,0.183333333333333
+"538","Epocrates Plus",5,0,0.1
+"539","Equestria Girls",2,0,0.175
+"540","Essential Anatomy 3",0,0,0
+"541","Essential Resources",4,0,0.025
+"542","Etsy: Handmade & Vintage Goods",8,0,0.25
+"543","Etta Homes",7,0,0.0714285714285714
+"544","Eurosport",9,0,0.0944444444444444
+"545","Eve Period Tracker - Love, Sex & Relationships App",2,0,0
+"546","Even - organize your money, get paid early",4,0,0.175
+"547","Evernote – Organizer, Planner for Notes & Memos",0,0,0
+"548","Evie Launcher",0,0,0
+"549","ExDialer - Dialer & Contacts",2,0,0.141666666666667
+"550","Expedia Hotels, Flights & Car Rental Travel Deals",15,0,0.203333333333333
+"551","Expense IQ Money Manager",3,0,0.111111111111111
+"552","Experian - Free Credit Report",2,0,0
+"553","Extreme Car Driving Simulator",0,0,0
+"554","Extreme Coupon Finder",2,0,0
+"555","Extreme Match",9,0,0.222222222222222
+"556","Extreme Racing 2 - Real driving RC cars game!",8,0,0
+"557","EyeCloud",14,0,0.0952380952380952
+"558","EyeEm - Camera & Photo Filter",6,0,0.160714285714286
+"559","EzCalculator",4,0,0
+"560","Fabulous: Motivate Me! Meditate, Relax, Sleep",3,0,0.0666666666666667
+"561","Face Filter, Selfie Editor - Sweet Camera",4,0,0.26875
+"562","Facebook",19,0,0.130350877192982
+"563","Facebook Ads Manager",13,0,0.0108669108669109
+"564","Facebook Lite",3,0,0
+"565","Facebook Local",5,0,0.0583333333333333
+"566","Facebook Pages Manager",12,0,0.0472222222222222
+"567","Facetune - Ad Free",4,0,0
+"568","Fake Call - Fake Caller ID",14,0,0.0714285714285714
+"569","Fallout Shelter",1,0,0.48
+"570","Family Album Mitene: Private Photo & Video Sharing",4,0,0.1875
+"571","Family Dollar",5,0,0
+"572","Family GPS Tracker and Chat + Baby Monitor Online",7,0,0.128571428571429
+"573","Family GPS tracker KidControl + GPS by SMS Locator",4,0,0.25
+"574","Family Locator - GPS Tracker",13,0,0.0944444444444444
+"575","FamilySearch Tree",5,0,0.0166666666666667
+"576","Fancy Widgets",0,0,0
+"577","Fandango Movies - Times + Tickets",4,0,0
+"578","FanDuel: Daily Fantasy Sports",2,0,0
+"579","Fantasy Football",17,0,0
+"580","Fantasy Football & NFL News",3,0,0.0333333333333333
+"581","Fantasy Football Manager (FPL)",7,0,0.18452380952381
+"582","Farm Fruit Pop: Party Time",6,0,0
+"583","Farm Heroes Saga",21,0,0.130952380952381
+"584","Farming Simulator 14",0,0,0
+"585","Farming Simulator 18",2,0,0.125
+"586","Fashion in Vogue",35,0,0.0285714285714286
+"587","Fast News",4,0,0.375
+"588","Fast Scanner : Free PDF Scan",15,0,0
+"589","Fast Secure VPN",23,0,0.0307971014492754
+"590","FastMeet: Chat, Dating, Love",13,0,0.0153846153846154
+"591","Fat Burning Workout - Home Weight lose",1,0,0
+"592","Fate/Grand Order (English)",0,0,0
+"593","FBReader: Favorite Book Reader",5,0,0.0933333333333333
+"594","FERZU - Furries Social Network",2,0,0.25
+"595","FidMe Loyalty Cards & Deals at Grocery Supermarket",3,0,0
+"596","FIFA - Tournaments, Soccer News & Live Scores",18,0,0.218106995884774
+"597","File Browser by Astro (File Manager)",2,0,0
+"598","File Explorer",6,0,0.05
+"599","File Manager",5,0,0
+"600","File Manager -- Take Command of Your Files Easily",11,0,0.0454545454545455
+"601","Files Go by Google: Free up space on your phone",0,0,0
+"602","FilterGrid - Cam&Photo Editor",4,0,0.125
+"603","Filters for B Live",13,0,0
+"604","Filters for Selfie",16,0,0
+"605","FINAL FANTASY BRAVE EXVIUS",0,0,0
+"606","Final Fantasy XV: A New Empire",2,0,0.325
+"607","Financial Times",6,0,0.0833333333333333
+"608","Find a Way: Addictive Puzzle",1,0,0.496428571428571
+"609","Find Dining Restaurant Finder",0,0,0
+"610","Find&Save - Local Shopping",4,0,0.125
+"611","FindShip",7,0,0.180357142857143
+"612","Firefox Browser fast & private",0,0,0
+"613","Firefox Focus: The privacy browser",6,0,0.347222222222222
+"614","Fishdom",0,0,0
+"615","Fitbit",0,0,0
+"616","Flashlight",4,0,0
+"617","Flashlight - Torch LED Light",7,0,0
+"618","Flashlight & LED Torch",15,0,0
+"619","Flashlight HD LED",1,0,0
+"620","Flickr",10,0,0
+"621","Flight & Hotel Booking App - ixigo",6,0,0
+"622","Flightradar24 Flight Tracker",4,0,0.04375
+"623","Flights",8,0,0
+"624","Flip the Gun - Simulator Game",0,0,0
+"625","FlipaClip - Cartoon animation",0,0,0
+"626","Flipboard: News For Our Time",3,0,0
+"627","Flipkart Online Shopping App",5,0,0.1
+"628","Flipp - Weekly Shopping",0,0,0
+"629","Flippy Campus - Buy & sell on campus at a discount",8,0,0.0125
+"630","FlirtChat - ♥Free Dating/Flirting App♥",17,0,0
+"631","Floor Plan Creator",8,0,0.028125
+"632","Flow Free",4,0,0.61
+"633","Flowers Live Wallpaper",8,0,0.0625
+"634","Fly Delta",14,0,0.164285714285714
+"635","FollowMyHealth®",0,0,0
+"636","Font Studio- Photo Texts Image",1,0,0
+"637","Food Calorie Calculator",17,0,0.132352941176471
+"638","Food Network",16,0,0.291666666666667
+"639","Fooducate Healthy Weight Loss & Calorie Counter",5,0,0.0482142857142857
+"640","Foot Mercato : transferts, résultats, news, live",7,0,0
+"641","Football Live Scores",4,0,0
+"642","ForecaWeather",4,0,0.0892857142857143
+"643","Fortune City - A Finance App",3,0,0
+"644","FOSSIL Q: DESIGN YOUR DIAL",16,0,0.0078125
+"645","Four In A Line",6,0,0.183333333333333
+"646","Four In A Line Free",5,0,0
+"647","Foursquare City Guide",7,0,0
+"648","Foursquare Swarm: Check In",8,0,0.1125
+"649","FOX",12,0,0
+"650","Fox Business",3,0,0.325
+"651","Fox News – Breaking News, Live Video & News Alerts",8,0,0.1875
+"652","FOX NOW - On Demand & Live TV",12,0,0
+"653","FOX Sports: Live Streaming, Scores & News",6,0,0.15
+"654","Fraction Calculator Plus Free",2,0,0
+"655","Free & Premium VPN - FinchVPN",7,0,0.0321428571428571
+"656","Free Dating & Flirt Chat - Choice of Love",14,0,0.121428571428571
+"657","Free Dating App - Meet Local Singles - Flirt Chat",9,0,0.00833333333333333
+"658","Free Dating App - YoCutie - Flirt, Chat & Meet",14,0,0.030952380952381
+"659","Free Dating App & Flirt Chat - Cheers",10,0,0.185
+"660","Free Dating App & Flirt Chat - Match with Singles",6,0,0
+"661","Free Dating Hook Up Messenger",9,0,0.247222222222222
+"662","Free Foreclosure Real Estate Search by USHUD.com",9,0,0.201851851851852
+"663","Free Hypnosis",0,0,0
+"664","Free Live Talk-Video Call",0,0,0
+"665","Free live weather on screen",7,0,0
+"666","Free Panda Radio Music",3,0,0
+"667","Free phone calls, free texting SMS on free number",4,0,0
+"668","Free Sports TV",4,0,0.225
+"669","Free TV Shows App:News, TV Series, Episode, Movies",4,0,0.15
+"670","Free VIN Report for Used Cars",6,0,0.0666666666666667
+"671","FREEDOME VPN Unlimited anonymous Wifi Security",6,0,0
+"672","Freeletics: Personal Trainer & Fitness Workouts",11,0,0.0909090909090909
+"673","Freeme Launcher—Stylish Theme",8,0,0
+"674","FreePrints – Free Photos Delivered",1,0,0
+"675","Fresh EBT - Food Stamp Balance",6,0,0
+"676","FreshBooks Classic",16,0,0.205625
+"677","Frontback - Social Photos",7,0,0.0714285714285714
+"678","Frozen Free Fall",6,0,0.166666666666667
+"679","Fruit Block - Puzzle Legend",0,0,0
+"680","Fruit Ninja®",3,0,0
+"681","Fruits Bomb",8,0,0.08125
+"682","Fuelio: Gas log & costs",12,0,0.145833333333333
+"683","Full Screen Caller ID",9,0,0
+"684","FUN Keyboard – Emoji Keyboard, Sticker,Theme & GIF",5,0,0
+"685","Fun Kid Racing",5,0,0.09
+"686","Fun Kid Racing - Motocross",3,0,0
+"687","Funny Alarm Clock Ringtones",0,0,0
+"688","Funny Pics",1,0,0.633333333333333
+"689","Fuzzy Seasons: Animal Forest",0,0,0
+"690","G Cloud Backup",1,0,0
+"691","Galactic Core Free Wallpaper",1,0,1
+"692","Galaxy Attack: Alien Shooter",8,0,0
+"693","Game of Thrones: Conquest™",1,0,0
+"694","Gametime - Tickets to Sports, Concerts, Theater",2,0,0.158333333333333
+"695","GANMA! - オリジナル漫画が全話無料で読み放題",7,0,0
+"696","Garden Coloring Book",16,0,0.0322916666666667
+"697","Garden Fruit Legend",2,0,0.95
+"698","Garden Photo Frames - Garden Photo Editor",11,0,0
+"699","Gardenscapes",0,0,0
+"700","Garena Free Fire",5,0,0.266666666666667
+"701","Garmin Connect™",4,0,0.164583333333333
+"702","GasBuddy: Find Cheap Gas",4,0,0.0192307692307692
+"703","Gay Sugar Daddy Dating & Hookup – Sudy Gay",12,0,0.0833333333333333
+"704","Gboard - the Google Keyboard",2,0,0.6
+"705","GCash - Buy Load, Pay Bills, Send Money",15,0,0.0688888888888889
+"706","Gems or jewels ?",9,0,0.0666666666666667
+"707","Genius Scan - PDF Scanner",1,0,0
+"708","Gmail",9,0,0.2
+"709","GMAT Math Flashcards",1,0,0
+"710","GMAT Question Bank",6,0,0
+"711","GMX Mail",4,0,0.266666666666667
+"712","GO Keyboard - Cute Emojis, Themes and GIFs",13,0,0
+"713","GO Keyboard - Emoticon keyboard, Free Theme, GIF",9,0,0.277460317460317
+"714","GO Notifier",5,0,0.2825
+"715","GO SMS Pro - Messenger, Free Themes, Emoji",9,0,0.0416666666666667
+"716","GO Weather - Widget, Theme, Wallpaper, Efficient",4,0,0.0416666666666667
+"717","Goal Live Scores",4,0,0
+"718","GoBank",4,0,0.430021367521367
+"719","Goibibo - Flight Hotel Bus Car IRCTC Booking App",7,0,0
+"720","Goku Wallpaper Art",9,0,0.111111111111111
+"721","Gold Butterfly Keyboard Theme",6,0,0
+"722","Golden Dictionary (EN-AR)",9,0,0.0555555555555556
+"723","Golden Launcher",6,0,0
+"724","Goldstar: Live Event Tickets",2,0,0
+"725","Golf Channel",9,0,0.288888888888889
+"726","Golf GPS by SwingxSwing",1,0,0.0666666666666667
+"727","Golf GPS Rangefinder: Golf Pad",2,0,0.286458333333333
+"728","GolfLogix GPS + Putt Breaks",6,0,0.0222222222222222
+"729","GolfNow: Tee Time Deals at Golf Courses, Golf GPS",3,0,0.230324074074074
+"730","Golfshot Plus: Golf GPS",7,0,0.0714285714285714
+"731","Golfshot: Golf GPS + Tee Times",14,0,0
+"732","GoodRx Drug Prices and Coupons",10,0,0
+"733","Google",7,0,0.1
+"734","Google Ads",13,0,0.00512820512820513
+"735","Google Duo - High Quality Video Calls",1,0,0
+"736","Google Earth",5,0,0.103333333333333
+"737","Google Fit - Fitness Tracking",6,0,0.09375
+"738","Google Handwriting Input",16,0,0
+"739","Google Keep",9,0,0.105555555555556
+"740","Google My Business",39,0,0.0538461538461538
+"741","Google News",0,0,0
+"742","Google Pay",6,0,0.284722222222222
+"743","Google PDF Viewer",14,0,0.175
+"744","Google Photos",1,0,0.6
+"745","Google Primer",0,0,0
+"746","Google Slides",0,0,0
+"747","Google Street View",1,0,1
+"748","Google Translate",0,0,0
+"749","Google Trips - Travel Planner",0,0,0
+"750","Google Voice",4,0,0
+"751","Google+",0,0,0
+"752","GoPro (formerly Capture)",1,0,0
+"753","GPS Map Free",0,0,0
+"754","GPS Speedometer and Odometer",0,0,0
+"755","GPS Speedometer, Distance Meter",3,0,0
+"756","GPS Status & Toolbox",6,0,0.0208333333333333
+"757","GPS Traffic Speedcam Route Planner by ViaMichelin",5,0,0.0714285714285714
+"758","Granny",0,0,0
+"759","Graphing Calculator",14,0,0.0127551020408163
+"760","GRE Flashcards",4,0,0.189285714285714
+"761","GRE Prep & Practice by Magoosh",7,0,0.0571428571428571
+"762","GRE Tutor",5,0,0.216428571428571
+"763","Grim Soul: Dark Fantasy Survival",1,0,0.5
+"764","Groovebook Photo Books & Gifts",1,0,0.0666666666666667
+"765","GroupMe",0,0,0
+"766","Groupon - Shop Deals, Discounts & Coupons",15,0,0.1525
+"767","Grubhub: Food Delivery",16,0,0.0875
+"768","GS SHOP",15,0,0
+"769","Guns of Glory",3,0,0.3
+"770","GUNSHIP BATTLE: Helicopter 3D",5,0,0.16
+"771","Gyft - Mobile Gift Card Wallet",18,0,0.111111111111111
+"772","H Pack",10,0,0.0625
+"773","H TV",11,0,0
+"774","H&M",1,0,0
+"775","Hacker's Keyboard",0,0,0
+"776","Hairstyles step by step",10,0,0.06
+"777","Hamilton — The Official App",8,0,0.0895833333333333
+"778","Hangouts",16,0,0.00841346153846154
+"779","Happify",1,0,0
+"780","Happy Birthday Songs Offline",1,0,0
+"781","Happy Fruits Bomb - Cube Blast",5,0,0.1
+"782","Happy Street",1,0,0.4
+"783","Harkins Theatres",4,0,0.25
+"784","Harry Potter: Hogwarts Mystery",0,0,0
+"785","HauteLook",8,0,0.13125
+"786","Hay Day",3,0,0.358333333333333
+"787","Haystack TV: Local & World News - Free",2,0,0
+"788","HBO GO: Stream with TV Package",2,0,0.28125
+"789","HD Camera",1,0,0
+"790","HD Camera - Best Cam with filters & panorama",2,0,0
+"791","HD Camera - Quick Snap Photo & Video",4,0,0.114285714285714
+"792","HD Camera for Android",10,0,0
+"793","HD Camera Pro for Android",1,0,0
+"794","HD Camera Ultra",0,0,0
+"795","HD Movie Video Player",2,0,0.333333333333333
+"796","HD Video Player",15,0,0
+"797","HD Widgets",0,0,0
+"798","HDFC Bank MobileBanking",1,0,0
+"799","Headspace: Meditation & Mindfulness",2,0,0
+"800","Health and Nutrition Guide",18,0,0
+"801","HealtheLife",14,0,0.107142857142857
+"802","Healthy Recipes Free",7,0,0
+"803","Helix Jump",6,0,0.368055555555556
+"804","Hello Kitty Lunchbox",3,0,0
+"805","Hello Kitty Nail Salon",0,0,0
+"806","Hello Stars",11,0,0.163636363636364
+"807","HelloTalk — Chat, Speak & Learn Foreign Languages",0,0,0
+"808","Hero Hunters",2,0,0.258333333333333
+"809","Herpes Dating: 1,000K+ Singles",5,0,0
+"810","Herpes Positive Singles Dating",4,0,0
+"811","HESI A2 Pocket Prep",6,0,0.0166666666666667
+"812","Hide App, Private Dating, Safe Chat - PrivacyHider",8,0,0.0625
+"813","Hide Something - Photo, Video",4,0,0
+"814","Hideman VPN",10,0,0.06
+"815","High-Powered Flashlight",9,0,0.0396825396825397
+"816","High-Speed Camera (GIF,Burst)",6,0,0.0416666666666667
+"817","High Blood Pressure Symptoms",4,0,0
+"818","Hill Climb Racing",0,0,0
+"819","Hill Climb Racing 2",6,0,0.15462962962963
+"820","Hily: Dating, Chat, Match, Meet & Hook up",17,0,0.176470588235294
+"821","Hinge: Dating & Relationships",7,0,0
+"822","HipChat - Chat Built for Teams",21,0,0.0634920634920635
+"823","Hipmunk Hotels & Flights",4,0,0
+"824","HISTORY: Watch TV Show Full Episodes & Specials",2,0,0
+"825","Hitwe - meet people and chat",0,0,0
+"826","Hole19: Golf GPS App, Rangefinder & Scorecard",1,0,0
+"827","Home Decor Showpiece Art making: Medium Difficulty",4,0,0.25
+"828","Home Scouting® MLS Mobile",7,0,0.157142857142857
+"829","Home Security Camera WardenCam - reuse old phones",4,0,0
+"830","Home Street – Home Design Game",2,0,0.5
+"831","Home Workout - No Equipment",1,0,0.5
+"832","Home Workout for Men - Bodybuilding",4,0,0.0892857142857143
+"833","Home workouts - fat burning, abs, legs, arms,chest",0,0,0
+"834","Homes.com 🏠 For Sale, Rent",7,0,0
+"835","Homescapes",0,0,0
+"836","Homesnap Real Estate & Rentals",4,0,0
+"837","Homestyler Interior Design & Decorating Ideas",8,0,0.202951388888889
+"838","HomeWork",0,0,0
+"839","Homework Planner",0,0,0
+"840","Honkai Impact 3rd",0,0,0
+"841","Hopper - Watch & Book Flights",4,0,0.05
+"842","Horoscopes – Daily Zodiac Horoscope and Astrology",13,0,0.0471794871794872
+"843","Horses Live Wallpaper",9,0,0
+"844","Hostelworld: Hostels & Cheap Hotels Travel App",11,0,0.0848484848484849
+"845","Hot Wheels: Race Off",0,0,0
+"846","Hotels Combined - Cheap deals",14,0,0.00357142857142857
+"847","Hotels.com: Book Hotel Rooms & Find Vacation Deals",8,0,0.203125
+"848","HotelTonight: Book amazing deals at great hotels",17,0,0.130392156862745
+"849","Hotspot Shield Free VPN Proxy & Wi-Fi Security",14,0,0
+"850","Hotstar",4,0,0.1375
+"851","Hotwire Hotel & Car Rental App",11,0,0.1625
+"852","Housing-Real Estate & Property",3,0,0
+"853","HTC Calendar",0,0,0
+"854","HTC File Manager",13,0,0.0269230769230769
+"855","HTC Gallery",2,0,0.0375
+"856","HTC Help",15,0,0
+"857","HTC Lock Screen",10,0,0.1575
+"858","HTC Mail",5,0,0.1
+"859","HTC Sense Input",12,0,0.221180555555556
+"860","HTC Sense Input-AR",16,0,0.0541666666666667
+"861","HTC Service － DLNA",8,0,0.190625
+"862","HTC Service—Video Player",1,0,0
+"863","HTC Social Plugin - Facebook",5,0,0.21
+"864","HTC Speak",11,0,0
+"865","HTC Weather",6,0,0.0833333333333333
